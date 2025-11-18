@@ -155,7 +155,6 @@ def count_within_radius(
 st.sidebar.header("Prediction Variants")
 
 prediction_options = {
-    "Unified model (metadata-driven)": "predict_for_address.py",
     "Baseline only": "predict_baseline.py",
     "Competition model": "predict_competition.py",
     "Demographics model": "predict_demographics.py",
@@ -163,7 +162,6 @@ prediction_options = {
 }
 
 variant_descriptions = {
-    "Unified model (metadata-driven)": "Uses full feature set (competition + demographics) via model_metadata.json.",
     "Baseline only": "Uses only latitude/longitude/year; ignores competitors and demographics.",
     "Competition model": "Adds competitor distance and count features on top of baseline.",
     "Demographics model": "Adds nearest census-tract demographics on top of baseline.",
