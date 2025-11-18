@@ -1,0 +1,26 @@
+competitor_id,name,brand,competitor_type,address,latitude,longitude
+1,EV Dealer 1,Chevrolet,ChargingHub,"1000 Sample Rd, Austin, TX",30.25118799,-97.72881994
+2,EV Dealer 2,Lucid,EVDealer,"1001 Sample Rd, Austin, TX",30.36129443,-97.73943562
+3,EV Dealer 3,Kia,ChargingHub,"1002 Sample Rd, Austin, TX",30.40268697,-97.8243149
+4,EV Dealer 4,Kia,EVDealer,"1003 Sample Rd, Austin, TX",30.33569619,-97.88106203
+5,EV Dealer 5,Ford,AutoDealer,"1004 Sample Rd, Austin, TX",30.27440139,-97.73489087
+6,EV Dealer 6,Lucid,ChargingHub,"1005 Sample Rd, Austin, TX",30.40313449,-97.69865315
+7,EV Dealer 7,Ford,ChargingHub,"1006 Sample Rd, Austin, TX",30.35163585,-97.76006382
+8,EV Dealer 8,Lucid,ChargingHub,"1007 Sample Rd, Austin, TX",30.36127199,-97.70956455
+9,EV Dealer 9,Lucid,ChargingHub,"1008 Sample Rd, Austin, TX",30.44927301,-97.80156642
+10,EV Dealer 10,Nissan,ChargingHub,"1009 Sample Rd, Austin, TX",30.28339445,-97.79911646
+11,EV Dealer 11,Nissan,AutoDealer,"1010 Sample Rd, Austin, TX",30.40103859,-97.65860797
+12,EV Dealer 12,Ford,EVDealer,"1011 Sample Rd, Austin, TX",30.32156206,-97.88073589
+13,EV Dealer 13,Chevrolet,ChargingHub,"1012 Sample Rd, Austin, TX",30.43783477,-97.68619394
+14,EV Dealer 14,Hyundai,ChargingHub,"1013 Sample Rd, Austin, TX",30.26240909,-97.75163762
+15,EV Dealer 15,Nissan,ChargingHub,"1014 Sample Rd, Austin, TX",30.26059525,-97.61021015
+16,EV Dealer 16,Ford,EVDealer,"1015 Sample Rd, Austin, TX",30.36109079,-97.68348513
+17,EV Dealer 17,Chevrolet,ChargingHub,"1016 Sample Rd, Austin, TX",30.33667828,-97.64783824
+18,EV Dealer 18,Kia,EVDealer,"1017 Sample Rd, Austin, TX",30.23249864,-97.81775896
+19,EV Dealer 19,Hyundai,EVDealer,"1018 Sample Rd, Austin, TX",30.29455448,-97.86193502
+20,EV Dealer 20,Nissan,AutoDealer,"1019 Sample Rd, Austin, TX",30.25063132,-97.69160686
+21,EV Dealer 21,Nissan,ChargingHub,"1020 Sample Rd, Austin, TX",30.31862298,-97.63179073
+22,EV Dealer 22,Chevrolet,AutoDealer,"1021 Sample Rd, Austin, TX",30.32103321,-97.77465639
+23,EV Dealer 23,Rivian,EVDealer,"1022 Sample Rd, Austin, TX",30.29124374,-97.78683691
+24,EV Dealer 24,Kia,EVDealer,"1023 Sample Rd, Austin, TX",30.33917001,-97.8632244
+25,EV Dealer 25,Kia,ChargingHub,"1024 Sample Rd, Austin, TX",30.25533195,-97.61454835

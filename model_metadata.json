@@ -1,0 +1,18 @@
+{
+  "feature_columns": [
+    "Year",
+    "Latitude",
+    "Longitude",
+    "dist_to_nearest_tesla_miles",
+    "dist_to_nearest_competitor_miles",
+    "num_competitors_5miles",
+    "tract_id",
+    "zipcode",
+    "population",
+    "median_income",
+    "ev_adoption_rate",
+    "avg_home_value",
+    "population_density",
+    "median_age"
+  ]
+}
